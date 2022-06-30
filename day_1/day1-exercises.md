@@ -8,7 +8,7 @@ Attributes allow us to add additional information to an element. Attributes are 
 The <head> tag is used to describe information about the page, but will not show within the browser.  The <title> tag is used within the <head> tag and will show in the browser url or on the tab of the browser url.  The <body> tag is used after the <head> tag and will contain all the HTML code that will display on the browser page.  All of these tags are contained within an <html> tag to distinguish this is HTML code.
 5. In your browser (Chrome), how do you view the source of a website?
 To view the page source you open the View tab on your Mac, click on Developers and then click View Source.  You can also right click, and select View Page Source.
-6. List five different HTML elements and what they are used for. For example, <p></p> is a paragraph element, and it is used to represent a paragraph of text.
+6. List five different HTML elements and what they are used for. For example, /*<p></p>/* is a paragraph element, and it is used to represent a paragraph of text.
 <h></h> is the heading tag used for headings/titles of sections.  There are 6 heading tags, going from largest (1) to smallest (6).
 <p></p> Paragraph tags are used to write sections of text "paragraphs."
 <br /> tag is used to separate a line in a paragraph down to the next line on the page. It only uses one tag, where most tags use two, an opening and a closing.
@@ -20,7 +20,7 @@ Empty elements usually do not have text written between two tags.  They only use
 8. What is semantic markup?
 Semantic markup is used to add extra information to the page using a tag.  An example is the <em></em> tag.  The emphasize tag is used to add extra information to the page.  If a screen reader is reading this tag, it will use intonation when reading the emphasized word or phrase.  These words are usually shown italicized on most browsers.
 9. What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
-The new HTML 5 elements added to help organize a webpage are: <header>, <nav> and <article>.  Originally these were written using <div></div> tags, but HTML 5 simplified these to help better structure the page. 
+The new HTML 5 elements added to help organize a webpage are: <header>, <nav> and <article>.  Originally these were written using <div></div> tags, but HTML 5 simplified these to help better structure the page.
 
 
 #CodePen sample
