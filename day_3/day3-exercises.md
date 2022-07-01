@@ -1,4 +1,5 @@
 # Chapter 7
+
 1. If you're using an input element in a form, what attribute controls the behavior of that input?
 The Type attribute controls the behavior, example: type="text" or type="password" or type="checkbox"
 2. What element is used to create a dropdown list?
@@ -10,11 +11,12 @@ The <fieldset> element.
 
 #Codepen:
 https://codepen.io/logkatwya3/pen/oNqNwdK
-
 Text boxes for each artist (three artists total).
 Labels for each text box.
 Dropdowns for the genre of each artist.
 Submit button.
+
+<hr />
 
 #Chapter 13 and 15
 
@@ -34,6 +36,5 @@ Liquid layout expands and contracts if the browser/device size changes.  The ten
 
 #CodePen
 https://codepen.io/logkatwya3/pen/oNqNwdK
-
 Add a border and background color to your headings. Pay attention to the contrast between the text and background colors.
 Divide your paragraph text into two vertical columns.
