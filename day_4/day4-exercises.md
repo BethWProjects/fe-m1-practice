@@ -10,8 +10,9 @@ JPG images are best used for images with more color (photographs).
 PNG images are best used for images with simple or single color pallettes (logos, illustrations, etc)
 ##Chapter 16
 1. What is the benefit of specifying the height and width of images in CSS compared to specifying in the HTML?
-Using CSS to specify the image height and width is beneficial, because you can set the same dimensions for a set amount of images, and then apply the classes from the HTML to those sizes.  This way, you don't have to enter the dimensions on each HTML element, but across a few assigned CSS classes. 
+Using CSS to specify the image height and width is beneficial, because you can set the same dimensions for a set amount of images, and then apply the classes from the HTML to those sizes.  This way, you don't have to enter the dimensions on each HTML element, but across a few assigned CSS classes.
 2. What is an image sprite, and why is it useful?
 An image sprite is when a single image is used on several parts of the website, for example logos, buttons etc to the same image.  This allows the browser to load faster because the same image is being used, versus multiple images for the different elements the user is interacting with.  
+https://codepen.io/logkatwya3/pen/oNqNwdK
 ###Chapter 1 in Javascript
 Read and watched short video on Chrome Dev Tools.
